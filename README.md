@@ -1,11 +1,11 @@
 # returnship-coding-practice
 Practicing code/design for problems.
 
-###About:
+### About:
 
 Women Who Code Boulder/Denver's Career Returnship is an initiative to create and support people who are trying to return to tech workforce after taking a career break run by @Rafna. This space is to practice technical coding interviews.
 
-###The format is simple:
+### The format is simple:
 
 We discuss a problem in the meetup and try to solve it in 30 minutes. If we were able to find a solution, then everyone will try to write the code in their system in any programming language. 
 
@@ -13,7 +13,8 @@ To submit a solution, create a branch with your name and put your solution in th
 Add your solution to the codingsolutions/ [name of coding challenge] folder.
 Once you add your solution, create a pull request and we will add your code to our repo.
 
-###Contact us
+### Contact us
 
 Join our slack: wwc-colorado.slack.com/#event_returnship
+
 Links: https://linktr.ee/wwcodecolorado
