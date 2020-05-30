@@ -1,0 +1,21 @@
+Your mission is to send an encoded message to MI6. The message should contain a key number to decipher the message and contain only strings . 
+Convert each word of message into a palindrome string followed by the key number. 
+Rules of encoding:
+1. Reduce the value of a letter only by 1 ( previous letter in the alphabet), i.e. change "d" to "c", but cannot change "c" to "d" or "d" to "b".
+2. The letter "a" may not be reduced any further, i.e. "a" stays as "a".
+
+Each reduction in the value of any letter is counted as a single operation. 
+Assume all strings are composed of lower case English letters, ascii[a-z], with spaces.
+Find the minimum number of operations required to convert a given string into a palindrome and add the number as the last character of the new encoded string.
+
+Eg 1. For input string = "cde", the following two operations are performed: 
+- cde → cdd → cdc with an operation count of 2.
+Final encoding is : "cdc2"
+
+Eg 2. For input string = “send a special agent” 
+- Send -> senc -> senb -> ....
+- Agent -> agens -> agenq -> ....
+- Special -> rpecial -> qpecial -> ppecial -> opecial -> .... 
+Final encoding : "sees4 a speceps6 agega5"
+
+Advanced challenge: Decipher the message sent to MI6 using the key number.
