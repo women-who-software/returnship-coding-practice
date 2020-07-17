@@ -1,0 +1,8 @@
+Share your whole wheat milk bread: 
+You have a whole wheat milk bread of size L*B. Your task is to cut this bread into smaller identical pieces with no left over piece of bread. 
+We share this bread equally with everyone joining us today and future events. How to cut?!
+
+Each piece will be a square having maximum possible side length with no left over piece of bread. 
+How many pieces you got and what was the size of the piece of bread? 
+
+Example: if bread is the size of 6*9, we can cut into 54 sqaures of 1*1, 6 squares of 3*3. Hence the output will be 6 pieces of size 3.
