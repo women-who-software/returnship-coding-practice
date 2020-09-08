@@ -1,0 +1,12 @@
+Find out if any given word is beautiful or not. Conditions for a word to be beautiful is:   
+- No two consecutive characters are the same. 
+- No two consecutive characters are not in the set (a,e,i,o,u,y).
+
+Input: beautiful
+Output: Not beautiful 
+
+Input: Hello 
+Output: Not Beautiful
+
+Input: Becky 
+Output: beautiful
