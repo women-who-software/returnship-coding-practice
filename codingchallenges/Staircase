@@ -1,0 +1,11 @@
+Build a staircase with coins:
+
+You have a total of 'n' coins that you want to form in a staircase shape, where every k-th row must have exactly k coins. That is, 1st row must have 1 coin, 2nd row must have 2 coins...
+Given n, find the total number of full staircase rows that can be formed.
+
+For example, Input: 5 coins
+Output: 2 rows
+
+1st row-> *   //full row
+2nd row-> **  //full row
+3rd row-> **  //not a full row, need one more coin to be a full row
