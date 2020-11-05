@@ -1,0 +1,13 @@
+Print a matrix in spiral form.
+
+A 2-dimensional matrix is given and you should print each element of the given matrix such that it represents a spiral. Note that, all the elements in the matrix should be of same type.
+
+Example: 1    2    3    4         a b c d
+	       5    6    7    8         e f g h
+   	     9   10   11  12          i j k l
+	       13  14   15  16          m n o p
+
+Output:    1    2    3   4        a b c d
+	         12   13   14  5        l m n e
+	         11   16   15  6        k p o f
+	         10   9    8   7        j i h g
